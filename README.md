@@ -33,9 +33,5 @@ I'm always interested in connecting with fellow developers and tech enthusiasts.
 
 I'm always open to exciting job opportunities, freelance projects, or collaborations. If you think I could be a great fit for your team or have an interesting project in mind, feel free to get in touch.
 
-## 📃 License
 
-The code and content in my repositories are available under the license unless otherwise specified. Feel free to use, modify, and distribute them as per the license requirements.
-
-Thank you for visiting my GitHub profile! Have a great day! 😄
 
