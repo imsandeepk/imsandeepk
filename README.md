@@ -17,7 +17,7 @@ Feel free to reach out if you have any recommendations or resources related to t
 - React
 - Express
 - Flask
-- Open AI
+- Fast API
 
 
 ## 📫 Get in Touch
