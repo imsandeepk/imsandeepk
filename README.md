@@ -1,6 +1,6 @@
 ## About Me
 
-Hello, world! 👋 I'm Sandeep, a Developer who is also intrested in Personal Finance. I believe in the power of technology to make a positive impact on the world, and I'm excited to be a part of this incredible journey.
+Hello, world! 👋 I'm Sandeep, a Developer who is also interested in Personal Finance and Machine learning. I believe in the power of technology to make a positive impact on the world, and I'm excited to be a part of this incredible journey.
 
 ## 🌱 What I'm Learning
 
