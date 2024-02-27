@@ -15,7 +15,7 @@ Feel free to reach out if you have any recommendations or resources related to t
 ## 📚 Tech Stack
 
 - React
-- Express
+- Django
 - Flask
 - Fast API
 
